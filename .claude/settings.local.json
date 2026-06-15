@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(pip *)",
+      "Bash(find *)",
+      "Bash(ls *)",
+      "Bash(dir *)",
+      "Bash(powershell -Command \"& {Get-AppxPackage -Name '*node*' -ErrorAction SilentlyContinue | Select-Object Name, Version}\")",
+      "Bash(cmd.exe //c \"dir /s /b C:\\\\node.exe 2>nul || dir /s /b C:\\\\ProgramData\\\\node.exe 2>nul\")"
+    ]
+  }
+}

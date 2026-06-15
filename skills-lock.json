@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "last30days": {
+      "source": "C:\\Users\\42180\\AppData\\Local\\Temp\\last30days-skill-local\\last30days-skill-main",
+      "sourceType": "local",
+      "computedHash": "9b8ed115a8a7f97c7d74cf84216279e27c7c1723da7e3e8ec34d7a9f617d2cb8"
+    }
+  }
+}

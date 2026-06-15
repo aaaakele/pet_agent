@@ -1,0 +1,43 @@
+2026-06-15 08:44:51 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '2026热门歌曲' → https://search.bilibili.com/all?keyword=2026%E7%83%AD%E9%97%A8%E6%AD%8C%E6%9B%B2&order=click
+2026-06-15 08:45:18 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '2026热门歌曲' → https://search.bilibili.com/all?keyword=2026%E7%83%AD%E9%97%A8%E6%AD%8C%E6%9B%B2&order=click
+2026-06-15 08:45:37 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '2026热门歌曲' → https://search.bilibili.com/all?keyword=2026%E7%83%AD%E9%97%A8%E6%AD%8C%E6%9B%B2&order=click
+2026-06-15 08:47:04 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '2026热门歌曲' → https://search.bilibili.com/all?keyword=2026%E7%83%AD%E9%97%A8%E6%AD%8C%E6%9B%B2&order=click
+2026-06-15 08:47:43 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '2026热门歌曲' → https://search.bilibili.com/all?keyword=2026%E7%83%AD%E9%97%A8%E6%AD%8C%E6%9B%B2&order=click
+2026-06-15 08:47:44 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '猫猫视频' → https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%8C%AB%E8%A7%86%E9%A2%91&order=click
+2026-06-15 08:47:44 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '美食教程' → https://search.bilibili.com/all?keyword=%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B&order=click
+2026-06-15 08:47:45 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '游戏攻略' → https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5&order=click
+2026-06-15 08:48:23 | INFO     | __main__:<lambda>:48 - QQ Bot: stopped
+2026-06-15 08:48:23 | INFO     | __main__:cleanup:77 - Desktop Pet shutting down
+2026-06-15 08:48:33 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-06-15 08:48:34 | INFO     | __main__:main:51 - QQ Bot enabled, listening on ws://127.0.0.1:3001
+2026-06-15 08:48:34 | INFO     | __main__:main:94 - Desktop Pet is running. Double-click the pet to chat.
+2026-06-15 08:48:34 | INFO     | __main__:<lambda>:48 - QQ Bot: running
+2026-06-15 08:49:08 | INFO     | core.agent.tools:_web_open:821 - web_open: searching baidu for 'QQ音乐 最新歌曲 热门' → https://www.baidu.com/s?wd=QQ%E9%9F%B3%E4%B9%90%20%E6%9C%80%E6%96%B0%E6%AD%8C%E6%9B%B2%20%E7%83%AD%E9%97%A8
+2026-06-15 08:49:29 | INFO     | core.agent.tools:_web_open:821 - web_open: searching baidu for 'QQ音乐最新热门歌曲 播放' → https://www.baidu.com/s?wd=QQ%E9%9F%B3%E4%B9%90%E6%9C%80%E6%96%B0%E7%83%AD%E9%97%A8%E6%AD%8C%E6%9B%B2%20%E6%92%AD%E6%94%BE
+2026-06-15 08:50:15 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '热门视频' → https://search.bilibili.com/all?keyword=%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91&order=click
+2026-06-15 08:50:30 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for 'B站热门视频' → https://search.bilibili.com/all?keyword=B%E7%AB%99%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91&order=click
+2026-06-15 08:50:55 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '最新热门视频 2025' → https://search.bilibili.com/all?keyword=%E6%9C%80%E6%96%B0%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91%202025&order=click
+2026-06-15 08:51:18 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for 'B站热门视频 2025' → https://search.bilibili.com/all?keyword=B%E7%AB%99%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91%202025&order=click
+2026-06-15 08:51:19 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 43 msgs, 1211 chars
+2026-06-15 08:51:24 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:51:26 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '热门视频 2025' → https://search.bilibili.com/all?keyword=%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91%202025&order=click
+2026-06-15 08:51:27 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 48 msgs, 1511 chars
+2026-06-15 08:51:31 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:51:42 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 53 msgs, 2540 chars
+2026-06-15 08:51:45 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:51:47 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 56 msgs, 3306 chars
+2026-06-15 08:51:50 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:51:52 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 59 msgs, 3592 chars
+2026-06-15 08:51:55 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:52:35 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 66 msgs, 5245 chars
+2026-06-15 08:52:39 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:52:42 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 69 msgs, 6296 chars
+2026-06-15 08:52:45 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:52:48 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for 'B站热门排行榜' → https://search.bilibili.com/all?keyword=B%E7%AB%99%E7%83%AD%E9%97%A8%E6%8E%92%E8%A1%8C%E6%A6%9C&order=click
+2026-06-15 08:52:48 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 72 msgs, 6605 chars
+2026-06-15 08:52:54 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 08:53:13 | INFO     | core.agent.tools:_web_open:821 - web_open: searching bilibili for '2025年6月 最新热门视频' → https://search.bilibili.com/all?keyword=2025%E5%B9%B46%E6%9C%88%20%E6%9C%80%E6%96%B0%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91&order=click
+2026-06-15 08:53:13 | INFO     | core.agent.executor:_maybe_summarize:208 - Compressing context: 77 msgs, 6939 chars
+2026-06-15 08:53:19 | INFO     | core.agent.executor:_maybe_summarize:216 - Context compressed
+2026-06-15 13:26:03 | INFO     | __main__:<lambda>:48 - QQ Bot: stopped
+2026-06-15 13:26:03 | INFO     | __main__:cleanup:77 - Desktop Pet shutting down

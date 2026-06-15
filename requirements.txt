@@ -1,0 +1,9 @@
+PySide6>=6.6
+openai>=1.30
+chromadb
+# sentence-transformers — replaced by ChromaDB built-in ONNX embedding
+sqlalchemy
+pydantic-settings
+loguru
+pytest
+pytest-asyncio

@@ -1,0 +1,150 @@
+2026-05-21 13:54:40 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 13:54:41 | INFO     | __main__:main:58 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 13:56:19 | WARNING  | core.history.retriever:_ensure_client:43 - sentence-transformers unavailable, RAG disabled: cannot import name 'PreTrainedModel' from 'transformers' (D:\anaconda3\envs\d2l\lib\site-packages\transformers\__init__.py)
+2026-05-21 14:19:42 | INFO     | __main__:cleanup:38 - Desktop Pet shutting down
+2026-05-21 14:21:27 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 14:21:28 | INFO     | __main__:main:58 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 14:22:26 | WARNING  | core.history.retriever:_ensure_client:43 - sentence-transformers unavailable, RAG disabled: cannot import name 'PreTrainedModel' from 'transformers' (d:\anaconda3\envs\d2l\lib\site-packages\transformers\__init__.py)
+2026-05-21 14:22:32 | WARNING  | core.agent.tools:_run_command:462 - Agent executing command: powershell -Command "Get-Date -Format 'yyyy-MM-dd dddd'"
+2026-05-21 14:22:34 | WARNING  | core.llm.client:chat_with_tools:63 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 14:22:36 | WARNING  | core.llm.client:chat_with_tools:63 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 14:22:38 | WARNING  | core.llm.client:chat_with_tools:63 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 14:22:38 | ERROR    | core.agent.executor:run:67 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 14:22:51 | INFO     | __main__:cleanup:38 - Desktop Pet shutting down
+2026-05-21 15:11:17 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:11:40 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:12:28 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 15:12:30 | INFO     | __main__:main:58 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 15:18:26 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:19:04 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 15:19:05 | INFO     | __main__:main:58 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 15:19:08 | INFO     | __main__:cleanup:38 - Desktop Pet shutting down
+2026-05-21 15:19:25 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:20:03 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:05 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:07 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:07 | ERROR    | core.agent.executor:run:70 - LLM call failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:16 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:18 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:20 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:20:20 | ERROR    | core.agent.executor:run:70 - LLM call failed: Error code: 400 - {'error': {'message': 'Failed to deserialize the JSON body into the target type: messages[6]: missing field `tool_call_id` at line 1 column 1514', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 15:31:23 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:31:52 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 15:31:52 | INFO     | __main__:main:58 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 15:32:12 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:41:26 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 15:41:27 | INFO     | __main__:main:58 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 15:41:41 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 15:48:57 | WARNING  | core.agent.tools:_run_command:462 - Agent executing command: powershell -Command "Get-Date -Format 'yyyy-MM-dd dddd'"
+2026-05-21 15:49:05 | WARNING  | core.agent.tools:_run_command:462 - Agent executing command: powershell -Command "[System.Globalization.CultureInfo]::CurrentCulture = [System.Globalization.CultureInfo]::GetCultureInfo('zh-CN'); Get-Date -Format 'yyyy年MM月dd日 dddd'"
+2026-05-21 15:49:14 | WARNING  | core.agent.tools:_run_command:462 - Agent executing command: python -c "import datetime; d=datetime.date.today(); weeks=['星期一','星期二','星期三','星期四','星期五','星期六','星期日']; print(f'{d.year}年{d.month}月{d.day}日 {weeks[d.weekday()]}')"
+2026-05-21 16:01:02 | INFO     | __main__:cleanup:38 - Desktop Pet shutting down
+2026-05-21 17:37:00 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 17:37:01 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 17:38:14 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 17:38:17 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 17:38:45 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 17:42:56 | INFO     | __main__:cleanup:45 - Desktop Pet shutting down
+2026-05-21 17:46:42 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 17:46:43 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 17:47:22 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 17:47:22 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 17:49:09 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 17:49:51 | INFO     | core.agent.executor:_maybe_summarize:164 - Compressing context: 40 msgs, 15641 chars
+2026-05-21 17:50:03 | INFO     | core.agent.executor:_maybe_summarize:172 - Context compressed
+2026-05-21 17:50:53 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 1 failed: Request timed out.
+2026-05-21 17:51:44 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 2 failed: Request timed out.
+2026-05-21 17:52:11 | INFO     | __main__:cleanup:45 - Desktop Pet shutting down
+2026-05-21 17:52:49 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 17:52:50 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 17:53:08 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 17:53:21 | INFO     | core.agent.executor:_maybe_summarize:164 - Compressing context: 44 msgs, 18195 chars
+2026-05-21 17:53:45 | INFO     | core.agent.executor:_maybe_summarize:172 - Context compressed
+2026-05-21 17:54:05 | INFO     | core.agent.executor:_maybe_summarize:164 - Compressing context: 48 msgs, 22982 chars
+2026-05-21 17:54:35 | INFO     | __main__:cleanup:45 - Desktop Pet shutting down
+2026-05-21 18:00:24 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:00:25 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:01:12 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:01:13 | INFO     | __main__:main:65 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:01:34 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 18:02:43 | INFO     | core.tasks.scheduler:_run_loop:44 - Firing task: 喝水提醒
+2026-05-21 18:02:49 | INFO     | core.tasks.scheduler:_run_loop:58 - Task completed: 喝水提醒
+2026-05-21 18:10:23 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:10:24 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:12:04 | INFO     | __main__:cleanup:45 - Desktop Pet shutting down
+2026-05-21 18:12:16 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:12:17 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:12:33 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 18:12:54 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:12:54 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:13:19 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 18:13:24 | WARNING  | core.agent.tools:_run_command:458 - Agent executing command: echo %date% %time%
+2026-05-21 18:13:25 | INFO     | core.tasks.scheduler:_run_loop:44 - Firing task: 💧 喝水提醒
+2026-05-21 18:13:31 | WARNING  | core.agent.tools:_run_command:458 - Agent executing command: powershell -Command "Get-Date -Format 'yyyy-MM-dd HH:mm:ss'"
+2026-05-21 18:13:38 | INFO     | core.tasks.scheduler:_run_loop:58 - Task completed: 💧 喝水提醒
+2026-05-21 18:14:19 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:14:19 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:15:12 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:15:13 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:15:52 | INFO     | core.history.retriever:_ensure_client:37 - ChromaDB + ONNX embedding ready
+2026-05-21 18:23:47 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:23:47 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:31:53 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:31:54 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:32:21 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-v4-falsh.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 18:32:23 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-v4-falsh.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 18:32:25 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-v4-falsh.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 18:32:25 | ERROR    | core.agent.executor:run:74 - LLM call failed: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-v4-falsh.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 18:33:09 | INFO     | __main__:cleanup:45 - Desktop Pet shutting down
+2026-05-21 18:33:12 | INFO     | __main__:main:23 - Starting Desktop Pet...
+2026-05-21 18:33:13 | INFO     | __main__:main:68 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 18:50:34 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 18:50:35 | INFO     | __main__:main:71 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 21:18:57 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 21:18:58 | INFO     | __main__:main:71 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 21:19:50 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:19:51 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:19:54 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:19:54 | ERROR    | core.agent.executor:run:74 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:20:40 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:20:41 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:20:44 | WARNING  | core.llm.client:chat_with_tools:71 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:20:44 | ERROR    | core.agent.executor:run:74 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:33:25 | INFO     | __main__:cleanup:54 - Desktop Pet shutting down
+2026-05-21 21:36:10 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 21:36:11 | INFO     | __main__:main:71 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 21:36:28 | WARNING  | core.agent.tools:_run_command:458 - Agent executing command: echo %DATE% %TIME%
+2026-05-21 21:36:29 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:36:30 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:36:33 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:36:33 | ERROR    | core.agent.executor:run:77 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:36:59 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:01 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:04 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:04 | ERROR    | core.agent.executor:run:77 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:24 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:26 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:28 | WARNING  | core.llm.client:chat_with_tools:111 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:37:28 | ERROR    | core.agent.executor:run:77 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:45:33 | INFO     | __main__:cleanup:54 - Desktop Pet shutting down
+2026-05-21 21:46:24 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 21:46:25 | INFO     | __main__:main:71 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 21:46:44 | WARNING  | core.agent.tools:_run_command:458 - Agent executing command: echo %date% %time%
+2026-05-21 21:47:22 | WARNING  | core.llm.client:chat_with_tools:113 - LLM tool call attempt 1 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:47:23 | WARNING  | core.llm.client:chat_with_tools:113 - LLM tool call attempt 2 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:47:26 | WARNING  | core.llm.client:chat_with_tools:113 - LLM tool call attempt 3 failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:47:26 | ERROR    | core.agent.executor:run:80 - LLM call failed: Error code: 400 - {'error': {'message': 'The `reasoning_content` in the thinking mode must be passed back to the API.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-21 21:50:10 | INFO     | core.tasks.scheduler:_run_loop:44 - Firing task: 喝水提醒
+2026-05-21 21:50:13 | INFO     | core.tasks.scheduler:_run_loop:58 - Task completed: 喝水提醒
+2026-05-21 21:50:43 | WARNING  | core.agent.tools:_run_command:458 - Agent executing command: python -c "from datetime import datetime; print(datetime.now().strftime('%Y-%m-%d %A'))"
+2026-05-21 21:55:28 | INFO     | __main__:cleanup:54 - Desktop Pet shutting down
+2026-05-21 22:09:42 | INFO     | __main__:main:22 - Starting Desktop Pet...
+2026-05-21 22:09:43 | INFO     | __main__:main:71 - Desktop Pet is running. Double-click the pet to chat.
+2026-05-21 22:09:59 | INFO     | core.agent.executor:_maybe_summarize:176 - Compressing context: 41 msgs, 11182 chars
+2026-05-21 22:10:05 | INFO     | core.agent.executor:_maybe_summarize:184 - Context compressed
+2026-05-21 22:10:24 | INFO     | core.agent.executor:_maybe_summarize:176 - Compressing context: 46 msgs, 11674 chars
+2026-05-21 22:10:28 | INFO     | core.agent.executor:_maybe_summarize:184 - Context compressed
+2026-05-21 22:10:30 | WARNING  | core.agent.tools:_run_command:458 - Agent executing command: echo %date% %time%
+2026-05-21 22:10:30 | INFO     | core.agent.executor:_maybe_summarize:176 - Compressing context: 49 msgs, 11906 chars
+2026-05-21 22:10:34 | INFO     | core.agent.executor:_maybe_summarize:184 - Context compressed
+2026-05-21 22:16:33 | INFO     | __main__:cleanup:54 - Desktop Pet shutting down
