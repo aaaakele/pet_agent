@@ -1,0 +1,21 @@
+# Environment variables (contains real API keys)
+config/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Storage
+storage/
+*.db
+
+# Data
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
