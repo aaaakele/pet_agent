@@ -5,8 +5,7 @@
   <img src="resources/wusaqi.gif" width="150" alt="Pet Avatar">
   <br><br>
   <p>
-    <a href="README.md"><strong>🏠 首页</strong></a> ·
-    <a href="README.en.md"><strong>🇬🇧 English</strong></a>
+    <a href="README.md"><strong>🇬🇧 English</strong></a>
   </p>
   <br>
 </div>
